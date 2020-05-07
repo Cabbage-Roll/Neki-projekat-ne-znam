@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1588887683 source:c:\users\laptop\documents\codeblocks\brawlhalla\main.cpp
+	<windows.h>
+	<time.h>
+	"list.hpp"
+	"dinstring.hpp"
+	"axe.hpp"
+	"blasters.hpp"
+	"bow.hpp"
+	"cannon.hpp"
+	"gauntlets.hpp"
+	"hammer.hpp"
+	"katars.hpp"
+	"lance.hpp"
+	"orb.hpp"
+	"scythe.hpp"
+	"spear.hpp"
+	"sword.hpp"
+	"weapons.hpp"
+	"sidekick.hpp"
+	"color.hpp"
+	"bacenestvari.hpp"
+	"spike.hpp"
+	"thrownweapon.hpp"
+	"mine.hpp"
+	"bomb.hpp"
+
+1588865714 c:\users\laptop\documents\codeblocks\brawlhalla\list.hpp
+	<stdlib.h>
+	<iostream>
+
+1588865719 c:\users\laptop\documents\codeblocks\brawlhalla\dinstring.hpp
+	<iostream>
+
+1588865719 source:c:\users\laptop\documents\codeblocks\brawlhalla\dinstring.cpp
+	"dinstring.hpp"
+
+1588890510 c:\users\laptop\documents\codeblocks\brawlhalla\axe.hpp
+	<stdlib.h>
+	<iostream>
+
+1588890978 c:\users\laptop\documents\codeblocks\brawlhalla\blasters.hpp
+	<stdlib.h>
+	<iostream>
+
+1588890312 c:\users\laptop\documents\codeblocks\brawlhalla\bow.hpp
+	<stdlib.h>
+	<iostream>
+
+1588890312 c:\users\laptop\documents\codeblocks\brawlhalla\cannon.hpp
+	<stdlib.h>
+	<iostream>
+
+1588890312 c:\users\laptop\documents\codeblocks\brawlhalla\gauntlets.hpp
+	<stdlib.h>
+	<iostream>
+
+1588890312 c:\users\laptop\documents\codeblocks\brawlhalla\hammer.hpp
+	<stdlib.h>
+	<iostream>
+
+1588890312 c:\users\laptop\documents\codeblocks\brawlhalla\katars.hpp
+	<stdlib.h>
+	<iostream>
+
+1588890312 c:\users\laptop\documents\codeblocks\brawlhalla\lance.hpp
+	<stdlib.h>
+	<iostream>
+
+1588890312 c:\users\laptop\documents\codeblocks\brawlhalla\orb.hpp
+	<stdlib.h>
+	<iostream>
+
+1588890312 c:\users\laptop\documents\codeblocks\brawlhalla\scythe.hpp
+	<stdlib.h>
+	<iostream>
+
+1588890312 c:\users\laptop\documents\codeblocks\brawlhalla\spear.hpp
+	<stdlib.h>
+	<iostream>
+
+1588890312 c:\users\laptop\documents\codeblocks\brawlhalla\sword.hpp
+	<stdlib.h>
+	<iostream>
+
+1588889330 c:\users\laptop\documents\codeblocks\brawlhalla\weapons.hpp
+	<stdlib.h>
+	<iostream>
+	"axe.hpp"
+	"blasters.hpp"
+	"bow.hpp"
+	"cannon.hpp"
+	"gauntlets.hpp"
+	"hammer.hpp"
+	"katars.hpp"
+	"lance.hpp"
+	"orb.hpp"
+	"scythe.hpp"
+	"spear.hpp"
+	"sword.hpp"
+
+1588885341 c:\users\laptop\documents\codeblocks\brawlhalla\sidekick.hpp
+	<stdlib.h>
+	<iostream>
+	"dinstring.hpp"
+
+1588887597 c:\users\laptop\documents\codeblocks\brawlhalla\color.hpp
+	<stdlib.h>
+	<iostream>
+
+1588888094 c:\users\laptop\documents\codeblocks\brawlhalla\bacenestvari.hpp
+	<stdlib.h>
+	<iostream>
+
+1588888784 c:\users\laptop\documents\codeblocks\brawlhalla\spike.hpp
+	<stdlib.h>
+	<iostream>
+	"bacenestvari.hpp"
+
+1588888689 c:\users\laptop\documents\codeblocks\brawlhalla\thrownweapon.hpp
+	<stdlib.h>
+	<iostream>
+	"bacenestvari.hpp"
+
+1588888856 c:\users\laptop\documents\codeblocks\brawlhalla\mine.hpp
+	<stdlib.h>
+	<iostream>
+	"bacenestvari.hpp"
+
+1588888915 c:\users\laptop\documents\codeblocks\brawlhalla\bomb.hpp
+	<stdlib.h>
+	<iostream>
+	"bacenestvari.hpp"
+
